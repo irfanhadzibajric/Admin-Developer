@@ -7,5 +7,14 @@ Php,Html,Css
 -Prebaciti u htdocs folder projekta
 -Pokrenuti preko localhosta.
 
+Prikaz login-a
 ![](imgs/login.png)
 
+Prikaz developer strane
+![](imgs/developer.png)
+
+Prikaz admin strane
+![](imgs/admin.png)
+
+Prikaz kreiranja usera na admin strani
+![](imgs/createuser.png)
